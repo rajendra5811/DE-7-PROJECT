@@ -1,0 +1,6 @@
+{
+	"name": "vechiletheftintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
