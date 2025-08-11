@@ -1,0 +1,9 @@
+{
+	"name": "theft",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76eb465e-4b75-421f-87c1-fbad6f4fd448",
+		"tenantId": "211964cb-65ea-4226-836a-8bb58911b98c"
+	}
+}
